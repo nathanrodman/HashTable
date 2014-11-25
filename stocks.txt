@@ -1,0 +1,6 @@
+GOOGL;Google Inc;563.8;April 29, 2014;0.51
+AMZN;Amazon.com, Inc;312.24;April 20, 2014;-21.7
+SBUX;Starbucks Corporation;71.98;May 14, 2014;-8.18
+EBAY;Ebay Corporation;52.02;May 14, 2014;-5.19
+NFLX;Netflix;402.32;June 22, 2014;9.63
+CMCSA;Comcast Corporation;51.97;May 14, 2014;1.05
